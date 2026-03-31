@@ -1633,7 +1633,7 @@ html {
 /* Mobile Medium (480px and below) */
 @media (max-width: 480px) {
   .nav-links a {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 
   .hero-background-img {
@@ -1647,12 +1647,12 @@ html {
   }
 
   .hero-text-overlay h1 {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     max-width: 50%;
   }
 
   .status {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     margin-top: 40px;
     max-width: 45%;
   }
